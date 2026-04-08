@@ -1,0 +1,49 @@
+.centrer{
+     background-color: white;
+    display: flex;
+   
+    font-family: Arial;
+     margin: 20px;
+   font-size: large;
+   align-items: center; 
+    justify-content: center;
+  padding: 30px;
+  margin: 0; 
+   
+}
+.carre{
+  background-color: rgb(225, 111, 111);
+   padding: 20px; 
+   padding-left: 30px;
+   border-radius: 20px;
+}
+.police{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    display: flex;
+    background-color: black;
+    color: white;
+     justify-content: center;
+    width: 700px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.imp{
+    width: 300px;
+    border-radius: 15px;
+    object-fit: cover;
+    display: block;
+    margin: auto 10px;
+}
+.btn{
+    background-color: rgb(7, 190, 7);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
